@@ -11,4 +11,6 @@ fonctionne le système de pointeurs en Go
 
 [Les pointeurs dans les struct](https://stackoverflow.com/questions/59964619/difference-using-pointer-in-struct-fields)
 
+[new vs &](https://stackoverflow.com/questions/13244947/is-there-a-difference-between-new-and-regular-allocation)
+
 [Copy vs Pointeur | Le benchmark](https://medium.com/a-journey-with-go/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963)
