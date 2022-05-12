@@ -15,7 +15,8 @@ func demoOne() {
 
 	andy.Name = "Andy"
 
-	// Du coup, les deux éléments pointent vers la même allocation mémoire
+	// Du coup, les deux éléments pointent vers la même allocation mémoire.
+	// Ici, je copie l'adresse mémoire
 	brad := andy
 
 	// Donc modifier l'un ou l'autre modifie la même donnée
